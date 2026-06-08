@@ -4,17 +4,7 @@ O objetivo desse respositório é compartilhar os resultados do projeto de GEN A
 
 Desafio Proposto: O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões. A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
-Fontes: Para alimentar nossa IA foram utilizadas como fontes e-books e vídeos valiados e reconhecidos de grandes investidores renomados, tais como: 
 
-1 - Benjamin Graham: O investidor inteligente;
-
-2 - Philip A. Fisher: Ações comuns, Lucros extraordinários;
-
-3 - Robert T. Kiyosaki: Pai rico, Pai pobre;
-
-4 - George S. Clason: O homem mais rico da Babilônia;
-
-5 - Max Gunther: Os Axiomas de zurique;
 
 Perguntas-Chave:
 
@@ -27,3 +17,30 @@ Perguntas-Chave:
 4 - Como aplicar a técnica do 'Scuttlebutt' para analisar empresas?
 
 5 - Quais os tipos de investimentos que existem e como funcionam?
+
+
+FONTES DE LIVROS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
+
+1 - Benjamin Graham: O investidor inteligente;
+
+2 - Philip A. Fisher: Ações comuns, Lucros extraordinários;
+
+3 - Robert T. Kiyosaki: Pai rico, Pai pobre;
+
+4 - George S. Clason: O homem mais rico da Babilônia;
+
+5 - Max Gunther: Os Axiomas de zurique;
+
+FONTES DE VÍDEOS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
+
+1 - LUIZ BARSI: A FILOSOFIA DE VIDA E INVESTIMENTOS DE UM BILIONÁRIO DA BOLSA | Como ele investe? - https://www.youtube.com/watch?v=qCBWQuhl1T4
+
+2 - AULA OBRIGATÓRIA PARA INVESTIDORES INICIANTES! GANHE DINHEIRO COM SEGURANÇA - https://www.youtube.com/watch?v=qpTVQ616wok
+
+3 - COMO MONTAR UMA CARTEIRA DE INVESTIMENTOS PARA INICIANTES (NA PRÁTICA) - https://www.youtube.com/watch?v=eMDgWLWOX84
+
+4 - PASSO A PASSO SIMPLES PARA COMEÇAR INVESTIR POCO DINHEIRO SENDO POBRE | Primo Pobre - https://www.youtube.com/watch?v=QNj3pzP_eCQ
+
+5 - A Regra dos 90 DIAS que te Deixará Rico (Napoleon Hill) - https://www.youtube.com/watch?v=iJJhlHQtGXo
+
+6 - BILIONÁRIO REVELA: COMO USAR UM SALÁRIO MÍNIMO PARA FICAR RICO! - Dicas de um Bilionário - https://www.youtube.com/watch?v=dgkR1LtHFNw
