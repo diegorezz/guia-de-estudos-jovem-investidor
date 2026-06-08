@@ -4,6 +4,8 @@ O objetivo desse respositório é compartilhar os resultados do projeto de GEN A
 
 Desafio Proposto: O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões. A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
+LINK DE PROJETO NOTEBOOKLM - Caminhos para a Riqueza: Um guia de estudo teórico-prático para iniciantes
+URL: https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3
 
 
 Perguntas-Chave:
@@ -19,6 +21,9 @@ Perguntas-Chave:
 5 - Quais os tipos de investimentos que existem e como funcionam?
 
 
+
+
+
 FONTES DE LIVROS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
 
 1 - Benjamin Graham: O investidor inteligente;
@@ -30,6 +35,7 @@ FONTES DE LIVROS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
 4 - George S. Clason: O homem mais rico da Babilônia;
 
 5 - Max Gunther: Os Axiomas de zurique;
+
 
 FONTES DE VÍDEOS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
 
