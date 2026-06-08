@@ -4,11 +4,17 @@ O objetivo desse respositório é compartilhar os resultados do projeto de GEN A
 
 Desafio Proposto: O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões. A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
-LINK DE PROJETO NOTEBOOKLM - Caminhos para a Riqueza: Um guia de estudo teórico-prático para iniciantes
+PROJETO NOTEBOOKLM - Caminhos para a Riqueza: Um guia de estudo teórico-prático para iniciantes
 - https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3
 
 MAPA MENTAL PRÁTICO 
 - https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/16a1d378-45e5-45ac-b685-c16d4921394c?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+AUDIOBOOK: Da mentalidade aos lucros extraordinários
+- https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/043cf34b-908c-4274-b8a5-822303d5881a?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+AULA DE FIXAÇÃO: RESUMO DOS FUNDAMENTOS DISCUTIDOS E APRESENTADOS DENTRO DO GUIA DE ESTUDO
+- https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/ff506e0d-12ae-456e-86a5-2edd31ff2846?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 
 -------
