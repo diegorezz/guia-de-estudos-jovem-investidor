@@ -21,7 +21,7 @@ Perguntas-Chave:
 5 - Quais os tipos de investimentos que existem e como funcionam?
 
 
-
+--------------------------------------------------------------------
 
 
 FONTES DE LIVROS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
@@ -39,14 +39,20 @@ FONTES DE LIVROS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
 
 FONTES DE VÍDEOS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
 
-1 - LUIZ BARSI: A FILOSOFIA DE VIDA E INVESTIMENTOS DE UM BILIONÁRIO DA BOLSA | Como ele investe? - https://www.youtube.com/watch?v=qCBWQuhl1T4
+1 - LUIZ BARSI: A FILOSOFIA DE VIDA E INVESTIMENTOS DE UM BILIONÁRIO DA BOLSA | Como ele investe? 
+- https://www.youtube.com/watch?v=qCBWQuhl1T4
 
-2 - AULA OBRIGATÓRIA PARA INVESTIDORES INICIANTES! GANHE DINHEIRO COM SEGURANÇA - https://www.youtube.com/watch?v=qpTVQ616wok
+2 - AULA OBRIGATÓRIA PARA INVESTIDORES INICIANTES! GANHE DINHEIRO COM SEGURANÇA 
+- https://www.youtube.com/watch?v=qpTVQ616wok
 
-3 - COMO MONTAR UMA CARTEIRA DE INVESTIMENTOS PARA INICIANTES (NA PRÁTICA) - https://www.youtube.com/watch?v=eMDgWLWOX84
+3 - COMO MONTAR UMA CARTEIRA DE INVESTIMENTOS PARA INICIANTES (NA PRÁTICA) 
+- https://www.youtube.com/watch?v=eMDgWLWOX84
 
-4 - PASSO A PASSO SIMPLES PARA COMEÇAR INVESTIR POCO DINHEIRO SENDO POBRE | Primo Pobre - https://www.youtube.com/watch?v=QNj3pzP_eCQ
+4 - PASSO A PASSO SIMPLES PARA COMEÇAR INVESTIR POCO DINHEIRO SENDO POBRE | Primo Pobre 
+- https://www.youtube.com/watch?v=QNj3pzP_eCQ
 
-5 - A Regra dos 90 DIAS que te Deixará Rico (Napoleon Hill) - https://www.youtube.com/watch?v=iJJhlHQtGXo
+5 - A Regra dos 90 DIAS que te Deixará Rico (Napoleon Hill) 
+- https://www.youtube.com/watch?v=iJJhlHQtGXo
 
-6 - BILIONÁRIO REVELA: COMO USAR UM SALÁRIO MÍNIMO PARA FICAR RICO! - Dicas de um Bilionário - https://www.youtube.com/watch?v=dgkR1LtHFNw
+6 - BILIONÁRIO REVELA: COMO USAR UM SALÁRIO MÍNIMO PARA FICAR RICO! - Dicas de um Bilionário 
+- https://www.youtube.com/watch?v=dgkR1LtHFNw
