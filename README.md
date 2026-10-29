@@ -1,71 +1,59 @@
-# guia-de-estudos-jovem-investidor
+# 📈 Guia de Estudos do Jovem Investidor
 
-O objetivo desse respositório é compartilhar os resultados do projeto de GEN AI, onde desenvolvemos através do NotebookLM um guia para investidores iniciantes, repleto de recursos e informações assertivas e validadas pelas maiores mentes do mercado financeiro. 
+Guia de estudo para investidores iniciantes, criado com **IA generativa (NotebookLM)** a partir de livros e vídeos de referência do mercado financeiro.
 
-Desafio Proposto: O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões. A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
+## 🎯 Sobre o projeto
 
-PROJETO NOTEBOOKLM - Caminhos para a Riqueza: Um guia de estudo teórico-prático para iniciantes
-- https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3
+Projeto do desafio de GenAI: criar um caderno temático no NotebookLM com fontes abertas sobre um assunto financeiro introdutório, definir objetivos de estudo, elaborar perguntas estratégicas, testar variações de prompts e registrar as respostas com suas referências.
 
-MAPA MENTAL PRÁTICO 
-- https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/16a1d378-45e5-45ac-b685-c16d4921394c?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+**Resultado:** um miniguia de estudo com resumos estruturados, glossário de conceitos e prompts reutilizáveis para revisões futuras. A ideia é usar a IA como ferramenta de **aprendizagem ativa**, combinando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
-AUDIOBOOK: Da mentalidade aos lucros extraordinários
-- https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/043cf34b-908c-4274-b8a5-822303d5881a?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+## 🔗 Materiais no NotebookLM
 
-AULA DE FIXAÇÃO: RESUMO DOS FUNDAMENTOS DISCUTIDOS E APRESENTADOS DENTRO DO GUIA DE ESTUDO
-- https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/ff506e0d-12ae-456e-86a5-2edd31ff2846?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+| Material | Link |
+|---|---|
+| 📓 Caderno: *Caminhos para a Riqueza, guia teórico-prático para iniciantes* | [Abrir](https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3) |
+| 🗺️ Mapa mental prático | [Abrir](https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/16a1d378-45e5-45ac-b685-c16d4921394c) |
+| 🎧 Audiobook: *Da mentalidade aos lucros extraordinários* | [Abrir](https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/043cf34b-908c-4274-b8a5-822303d5881a) |
+| 🎓 Aula de fixação: resumo dos fundamentos do guia | [Abrir](https://notebooklm.google.com/notebook/5b2e586a-83dc-4e42-b6f0-1712ee7fb9f3/artifact/ff506e0d-12ae-456e-86a5-2edd31ff2846) |
 
+## 📄 Documentos (PDF)
 
--------
+- [Guia de Investimentos para Jovens: Do Hábito à Liberdade Financeira](docs/guia-de-investimentos-para-jovens.pdf)
+- [Glossário de Aprendizado: Mentalidade, Fundamentos e Estratégias de Investimento](docs/glossario-de-aprendizado.pdf)
 
+## ❓ Perguntas-chave exploradas
 
-Perguntas-Chave:
+1. Qual a diferença entre investir em Ações e em FIIs?
+2. Quais as maiores ações em alta e que pagam dividendos mensais, atualmente?
+3. Como funciona o hábito de 90 dias de Napoleon Hill?
+4. Como aplicar a técnica do *Scuttlebutt* para analisar empresas?
+5. Quais os tipos de investimentos que existem e como funcionam?
 
-1 - Qual a diferença entre investir em Ações e em FIIs?
+## 📚 Fontes utilizadas
 
-2 - Quais as maiores ações em alta e que pagam dividendos mensais, atualmente?
+**Livros**
+- Benjamin Graham, *O Investidor Inteligente*
+- Philip A. Fisher, *Ações Comuns, Lucros Extraordinários*
+- Robert T. Kiyosaki, *Pai Rico, Pai Pobre*
+- George S. Clason, *O Homem Mais Rico da Babilônia*
+- Max Gunther, *Os Axiomas de Zurique*
 
-3 - Como funciona o hábito de 90 dias de Napoleon Hill?
+**Vídeos**
+1. [Luiz Barsi: a filosofia de vida e investimentos de um bilionário da bolsa](https://www.youtube.com/watch?v=qCBWQuhl1T4)
+2. [Aula obrigatória para investidores iniciantes](https://www.youtube.com/watch?v=qpTVQ616wok)
+3. [Como montar uma carteira de investimentos para iniciantes](https://www.youtube.com/watch?v=eMDgWLWOX84)
+4. [Passo a passo simples para começar a investir pouco dinheiro (Primo Pobre)](https://www.youtube.com/watch?v=QNj3pzP_eCQ)
+5. [A regra dos 90 dias (Napoleon Hill)](https://www.youtube.com/watch?v=iJJhlHQtGXo)
+6. [Como usar um salário mínimo para ficar rico](https://www.youtube.com/watch?v=dgkR1LtHFNw)
 
-4 - Como aplicar a técnica do 'Scuttlebutt' para analisar empresas?
+## 🧠 O que aprendi com o projeto
 
-5 - Quais os tipos de investimentos que existem e como funcionam?
+- Curadoria e validação de fontes para alimentar uma IA
+- Engenharia de prompt: testar variações e registrar respostas com referências
+- Organização do conhecimento em resumos, glossário e mapa mental
+- Uso crítico de IA generativa como apoio ao estudo
 
+## ⚠️ Aviso
 
---------------------------------------------------------------------
-
-
-FONTES DE LIVROS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
-
-1 - Benjamin Graham: O investidor inteligente;
-
-2 - Philip A. Fisher: Ações comuns, Lucros extraordinários;
-
-3 - Robert T. Kiyosaki: Pai rico, Pai pobre;
-
-4 - George S. Clason: O homem mais rico da Babilônia;
-
-5 - Max Gunther: Os Axiomas de zurique;
-
-------
-
-FONTES DE VÍDEOS UTILIZADAS PARA FUNDAMENTAÇÃO E ALIMENTAÇÃO DE BASE:
-
-1 - LUIZ BARSI: A FILOSOFIA DE VIDA E INVESTIMENTOS DE UM BILIONÁRIO DA BOLSA | Como ele investe? 
-- https://www.youtube.com/watch?v=qCBWQuhl1T4
-
-2 - AULA OBRIGATÓRIA PARA INVESTIDORES INICIANTES! GANHE DINHEIRO COM SEGURANÇA 
-- https://www.youtube.com/watch?v=qpTVQ616wok
-
-3 - COMO MONTAR UMA CARTEIRA DE INVESTIMENTOS PARA INICIANTES (NA PRÁTICA) 
-- https://www.youtube.com/watch?v=eMDgWLWOX84
-
-4 - PASSO A PASSO SIMPLES PARA COMEÇAR INVESTIR POCO DINHEIRO SENDO POBRE | Primo Pobre 
-- https://www.youtube.com/watch?v=QNj3pzP_eCQ
-
-5 - A Regra dos 90 DIAS que te Deixará Rico (Napoleon Hill) 
-- https://www.youtube.com/watch?v=iJJhlHQtGXo
-
-6 - BILIONÁRIO REVELA: COMO USAR UM SALÁRIO MÍNIMO PARA FICAR RICO! - Dicas de um Bilionário 
-- https://www.youtube.com/watch?v=dgkR1LtHFNw
+Material com finalidade **educacional**. Não constitui recomendação de investimento.
